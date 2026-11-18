@@ -34,6 +34,7 @@ Software QC Engineer passionate about software quality and delivering reliable a
 ---
 
 
+
 ## 🛠️ Tools & Technologies
 
 <div align="center">
@@ -48,17 +49,15 @@ Software QC Engineer passionate about software quality and delivering reliable a
 
 ### Database
 
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
-### Project Management Tools
+### Project Management
 
 <img src="https://skillicons.dev/icons?i=jira,trello" />
 
 ### Manual Testing & Documentation
 
-<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=excel,git" />
 
 ### Version Control
 
@@ -67,6 +66,7 @@ Software QC Engineer passionate about software quality and delivering reliable a
 </div>
 
 ---
+
 
 ## 🧪 Testing Skills
 
