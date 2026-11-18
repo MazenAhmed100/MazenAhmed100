@@ -33,6 +33,7 @@ Software QC Engineer passionate about software quality and delivering reliable a
 
 ---
 
+
 ## 🛠️ Tools & Technologies
 
 <div align="center">
@@ -43,27 +44,27 @@ Software QC Engineer passionate about software quality and delivering reliable a
 
 ### API Testing
 
-<img src="https://skillicons.dev/icons?i=postman,swagger" />
+<img src="https://skillicons.dev/icons?i=postman" />
 
 ### Database
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+### Project Management Tools
+
+<img src="https://skillicons.dev/icons?i=jira,trello" />
+
+### Manual Testing & Documentation
+
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 
 ### Version Control
 
 <img src="https://skillicons.dev/icons?i=git,github" />
 
 </div>
-
-**Additional Tools:**
-
-![TestNG](https://img.shields.io/badge/TestNG-Testing-DC382D?style=flat-square)
-![Appium](https://img.shields.io/badge/Appium-Mobile_Automation-662D91?style=flat-square)
-![REST Assured](https://img.shields.io/badge/REST_Assured-API_Automation-6DB33F?style=flat-square)
-![Apache JMeter](https://img.shields.io/badge/Apache_JMeter-Performance_Testing-D22128?style=flat-square)
-![Jira](https://img.shields.io/badge/Jira-Project_Management-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-Task_Management-0052CC?style=flat-square&logo=trello&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-Database-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
