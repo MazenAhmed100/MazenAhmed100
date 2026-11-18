@@ -50,14 +50,6 @@ Software QC Engineer passionate about software quality and delivering reliable a
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
-### Project Management
-
-<img src="https://skillicons.dev/icons?i=jira,trello" />
-
-### Manual Testing & Documentation
-
-<img src="https://skillicons.dev/icons?i=excel,git" />
-
 ### Version Control
 
 <img src="https://skillicons.dev/icons?i=git,github" />
