@@ -1,15 +1,20 @@
 
 <div align="center">
 
-# Hi, I'm Mazen Ahmed 👋
+# Mazen Ahmed
+### Software QC Engineer
 
-### Software QC Engineer | Manual & Automation Testing
+Manual Testing | Automation Testing | API Testing
 
-I am a Software QC Engineer passionate about software quality, testing, and ensuring reliable applications through effective manual and automation testing.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://mazen-three.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mazen-ahmed001)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/MazenAhmed100)
+<a href="https://www.linkedin.com/in/mazen-ahmed001">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:mazen.ahmedi700@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="tel:+201062663552">
+  <img src="https://img.shields.io/badge/Mobile-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
 </div>
 
@@ -17,48 +22,66 @@ I am a Software QC Engineer passionate about software quality, testing, and ensu
 
 ## 👨‍💻 About Me
 
-- Software QC Engineer with hands-on experience in Manual and Automation Testing.
-- ISTQB Certified Tester – Foundation Level (CTFL).
-- Experienced in designing and executing test cases and scenarios.
-- Skilled in API Testing, UI Testing, Functional Testing, and Regression Testing.
+Software QC Engineer passionate about software quality and delivering reliable applications through effective manual and automation testing.
+
+- Experienced in Manual and Automation Testing.
+- Skilled in designing and executing test cases.
+- Experienced in Functional, Regression, Exploratory, and UI Testing.
+- Experienced in API Testing and Database Testing.
 - Familiar with Agile methodologies and defect management.
 - Always eager to learn new testing tools and improve software quality.
 
-## 🛠️ Technical Skills
+---
 
-**Manual Testing**
+## 🛠️ Tools & Technologies
+
+<div align="center">
+
+### Programming & Automation
+
+<img src="https://skillicons.dev/icons?i=java,selenium,maven,idea" />
+
+### API Testing
+
+<img src="https://skillicons.dev/icons?i=postman,swagger" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+### Version Control
+
+<img src="https://skillicons.dev/icons?i=git,github" />
+
+</div>
+
+**Additional Tools:**
+
+![TestNG](https://img.shields.io/badge/TestNG-Testing-DC382D?style=flat-square)
+![Appium](https://img.shields.io/badge/Appium-Mobile_Automation-662D91?style=flat-square)
+![REST Assured](https://img.shields.io/badge/REST_Assured-API_Automation-6DB33F?style=flat-square)
+![Apache JMeter](https://img.shields.io/badge/Apache_JMeter-Performance_Testing-D22128?style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-Project_Management-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-Task_Management-0052CC?style=flat-square&logo=trello&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-Database-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+## 🧪 Testing Skills
+
+- Manual Testing
 - Functional Testing
 - Regression Testing
 - Exploratory Testing
 - UI Testing
+- API Testing
 - Test Case Design & Execution
 - Bug Reporting & Tracking
+- Automation Testing
+- Database Testing
+- Performance Testing
 
-**Automation Testing**
-- Java & OOP
-- Selenium WebDriver
-- TestNG
-- Maven
-- Page Object Model (POM)
-- Cucumber
-- Appium
-
-**API Testing**
-- Postman
-- REST Assured
-- Swagger
-
-**Database & Performance Testing**
-- SQL Server
-- MySQL
-- Apache JMeter
-
-**Tools & Methodologies**
-- Jira
-- Trello
-- Git & GitHub
-- Agile / Scrum
-- ISTQB Foundation Level
+---
 
 ## 🚀 Featured Projects
 
@@ -67,63 +90,69 @@ I am a Software QC Engineer passionate about software quality, testing, and ensu
 A freelance marketplace platform connecting clients with lawyers.
 
 **My Responsibilities:**
+
 - Performed manual and automation testing.
 - Designed and executed test cases.
 - Tested REST APIs using Postman.
-- Validated registration, login, user profiles, lawyers, cities, and genders endpoints.
+- Validated registration, login, current user, lawyers, cities, and genders endpoints.
 - Reported bugs and verified fixes.
+- Collaborated with a 6-member development team.
 
 **API Testing Results:**
+
 - 272 ms average response time.
 - 100% successful requests.
 - 0 errors during the recorded test run.
 
 **Technologies:** Postman, Selenium, Java, TestNG, Maven.
 
+<div align="left">
+
+<a href="https://github.com/Gebaaly/Mowakly-legal-platform">
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://mowakly-eg-zeta.vercel.app/">
+  <img src="https://img.shields.io/badge/Live-Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+---
+
 ### 2. E-commerce Website Testing
 
-A hands-on training project focused on testing an existing online electronics shopping website.
+A hands-on software testing training project focused on an existing online electronics shopping website.
 
 **My Responsibilities:**
+
 - Performed functional and exploratory testing.
 - Tested product browsing and search functionality.
 - Validated shopping cart and checkout workflows.
 - Designed and executed test cases.
 - Performed regression and UI testing.
-- Documented defects and reported testing results.
+- Identified, documented, and reported defects.
+- Prepared test documentation and bug reports.
 
 **Technologies:** Manual Testing, Selenium WebDriver, Java, TestNG, Maven, Jira.
 
-## 🎓 Certifications & Training
+<div align="left">
 
-- ISTQB Certified Tester – Foundation Level (CTFL).
-- Digilians – Software Testing Training.
-- DEPI – Software Testing Training.
-- Software Testing Bootcamp.
-- Effective Test Case and Bug Report Writing.
-- Introduction to Software Testing.
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MazenAhmed100&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MazenAhmed100&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://ecommerce-playground.lambdatest.io/">
+  <img src="https://img.shields.io/badge/Website-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://docs.google.com/spreadsheets/d/1yMefaIxXAe89mbv1QLirgttRt0DLznwrYYT966d2Fsw/edit?gid=543638151#gid=543638151">
+  <img src="https://img.shields.io/badge/Test-Cases-8A2BE2?style=for-the-badge&logo=googlesheets&logoColor=white" />
+</a>
+<a href="https://docs.google.com/spreadsheets/d/1yMefaIxXAe89mbv1QLirgttRt0DLznwrYYT966d2Fsw/edit?gid=543638151#gid=543638151">
+  <img src="https://img.shields.io/badge/Bug-Report-D73A49?style=for-the-badge&logo=googlesheets&logoColor=white" />
+</a>
 
 </div>
-
-## 📫 Connect With Me
-
-- **Portfolio:** https://mazen-three.vercel.app
-- **LinkedIn:** https://www.linkedin.com/in/mazen-ahmed001
-- **GitHub:** https://github.com/MazenAhmed100
-- **Email:** mazen.ahmedi700@gmail.com
 
 ---
 
 <div align="center">
 
-### Quality is never an accident; it is always the result of testing, dedication, and continuous improvement.
+### Quality is never an accident; it is the result of continuous testing and improvement.
 
 </div>
